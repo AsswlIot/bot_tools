@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/zhimaAi/go_tools/tool"
+	"github.com/AsswlIot/bot_tools/tool"
 )
 
 var (
