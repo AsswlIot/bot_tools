@@ -13,7 +13,6 @@ require (
 	github.com/pkg/sftp v1.13.9
 	github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
 	github.com/xuri/excelize/v2 v2.9.1
-	github.com/zhimaAi/go_tools v0.0.0-20250925081513-2ba58ff32b01
 	golang.org/x/crypto v0.39.0
 	gopkg.in/yaml.v2 v2.4.0
 )
